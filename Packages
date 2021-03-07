@@ -1,0 +1,14 @@
+Package: mcli
+Version: 20210306221644.0.0
+Architecture: amd64
+Maintainer: MinIO Development <dev@minio.io>
+Installed-Size: 18764
+Filename: ./mcli_20210306221644.0.0_amd64.deb
+Size: 6734618
+MD5sum: 6cee6d3badcdc3981e2b122c37ea1c67
+SHA1: 0c10f0e2d199458cdeedd9edafe4b4d6bffaf224
+SHA256: f9923a2c2e151317ed22b95b2e34deadb9ebed391be20d00cda77aa3638758f0
+Homepage: https://min.io
+Description: MinIO Client for cloud storage and filesystems
+Vendor: MinIO, Inc.
+
