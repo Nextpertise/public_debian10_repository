@@ -1,1 +1,1 @@
-deb https://nextpertise.github.io/public_debian10_repository ./
+deb [trusted=yes] https://nextpertise.github.io/public_debian10_repository ./
